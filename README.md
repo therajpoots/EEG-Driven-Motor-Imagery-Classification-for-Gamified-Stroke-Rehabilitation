@@ -9,7 +9,7 @@ The system integrates:
 - Machine learning
 - Real-time gamified visual feedback
 
-It quantifies neuroplasticity and enhances motor recovery using single-channel EEG data, achieving **78.33% test accuracy** on the **3D-ARM-Gaze** dataset.
+It quantifies neuroplasticity and enhances motor recovery using single-channel EEG data, achieving **88.33% test accuracy** on the **3D-ARM-Gaze** dataset.
 
 ---
 
